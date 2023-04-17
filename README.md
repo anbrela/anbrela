@@ -11,7 +11,7 @@ Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde l
 
 
 ###  🧞‍♂️ ¿Quién soy?
-Me ~~gusta~~ **flipa** programar. Después de diseñar unas 200 webs, en 2020 y con la cuarentena en nuestras vidas, decidí dar un rumbo y adentrarme en el maravilloso mundo del desarrollo de software. Ahora, sigo aprendiendo día a día y mejorando mis habiliades para ser cada vez mejor para mi equipo.
+Me ~~gusta~~ **flipa** programar. Después de diseñar unas 200 webs, en 2020 y con la cuarentena en nuestras vidas, decidí cambiar de rumbo y adentrarme en el maravilloso mundo del desarrollo de software. Ahora, sigo aprendiendo día a día y mejorando mis habiliades para ser cada vez mejor para mi equipo.
 
 **Estoy aprendiendo:**
   <img src="https://img.shields.io/badge/-Java-47A248?style=flat&logo=java&logoColor=white">
