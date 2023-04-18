@@ -42,9 +42,9 @@ Creo que una de mis virtudes es aportar felicidad, sonrisas, bromas diarias para
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-React Native-#063970?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Three Js-#063970?style=flat&logo=threedotjs&logoColor=white">
-  ...
+  <img src="https://img.shields.io/badge/-React Native-3178C6?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Three Js-E10098?style=flat&logo=threedotjs&logoColor=white">
+
 </p>
 
 
