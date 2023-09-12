@@ -34,7 +34,7 @@ Desarrollo con **Typescript**.
 He realizado 3 aplicaciones completas personales con **React Native**.
     
 **Estoy aprendiendo:**
-  <img src="https://img.shields.io/badge/-Java-47A248?style=flat&logo=NestJs&logoColor=white">
+  <img src="https://img.shields.io/badge/-NESTJS-47A248?style=flat&logo=NestJs&logoColor=white">
 
 
 Me considero una persona proactiva y emprendedora, en el 2017 creé **Hype Escape Room** y en la actualidad sigue en funcionamiento. Este emprendimiento me ayudó a ser mejor de cara a cliente y a trabajar en equipo.
