@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años diseñando webs y desde hace 3 años soy Front End developer! Actualmente trabajo en @PlexusTech para **Inditex.
+Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años diseñando webs y desde hace 3 años soy Desarrollador FrontEnd! Actualmente trabajo en @PlexusTech para **Inditex.
 
 - 👨‍🦲 Soy calvo, pienso demasiado.
 - 📄 La primera web la diseñé con un CMS con 14 años.
@@ -13,8 +13,28 @@ Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde l
 ###  🧞‍♂️ ¿Quién soy?
 Me ~~gusta~~ **flipa** programar. Después de diseñar unas 200 webs, en 2020 y con la cuarentena en nuestras vidas, decidí cambiar de rumbo y adentrarme en el maravilloso mundo del desarrollo de software. Ahora, sigo aprendiendo día a día y mejorando mis habilidades para ser cada vez mejor para mi equipo.
 
+Como frontEnd, me considero un desarrollador **FullStack** con javascript. He hecho multitud de webApps como proyectos personales y me dejo fluir con: 
+
+Desarrollo con **Typescript**.
+
+-> FrontEnd: 
+  - **React JS**
+  - **Next JS**
+  - **Tailwind CSS**
+
+-> Backend: 
+  - **Node JS**
+  - **Express**
+  - **Prisma**
+
+-> BBDD: 
+  - **PostgreSQL**
+  - **MongoDB**
+
+He realizado 3 aplicaciones completas personales con **React Native**.
+    
 **Estoy aprendiendo:**
-  <img src="https://img.shields.io/badge/-Java-47A248?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-47A248?style=flat&logo=NestJs&logoColor=white">
 
 
 Me considero una persona proactiva y emprendedora, en el 2017 creé **Hype Escape Room** y en la actualidad sigue en funcionamiento. Este emprendimiento me ayudó a ser mejor de cara a cliente y a trabajar en equipo.
