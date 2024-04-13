@@ -8,6 +8,10 @@ Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde l
 - 🎆 Me siento cómodo con React y Nest js
 
 
+###  🧞‍♂️ Mi web
+Cambio de web casi como de ropa pero puedes ver cosas sobre mí [aquí](https://www.pablonaveira.dev)
+
+
 
 ###  🧞‍♂️ ¿Quién soy?
 Me ~~gusta~~ **flipa** programar. Después de diseñar unas 200 webs, en 2020 y con la cuarentena en nuestras vidas, decidí cambiar de rumbo y adentrarme en el maravilloso mundo del desarrollo de software. Ahora, sigo aprendiendo día a día y mejorando mis habilidades para ser cada vez mejor para mi equipo.
