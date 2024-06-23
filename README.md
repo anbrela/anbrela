@@ -5,7 +5,7 @@ Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde l
 - 👨‍🦲 Soy calvo, pienso demasiado.
 - 📄 La primera web la diseñé con un CMS con 14 años.
 - 🍵 Me encanta el café.
-- 🎆 Me siento cómodo con React y Nest js
+- 🎆 Me siento cómodo con React, NextJs y Nest js
 
 
 ###  🧞‍♂️ Mi web
