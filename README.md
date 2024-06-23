@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años diseñando webs y desde hace 3 años soy Desarrollador FrontEnd! Actualmente trabajo en @PlexusTech para **Inditex.
+Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años diseñando webs y desde hace 3 años soy Desarrollador FrontEnd! Actualmente vuelco mi creatividad como Frontend Developer en @Inditex
 
 - 👨‍🦲 Soy calvo, pienso demasiado.
 - 📄 La primera web la diseñé con un CMS con 14 años.
