@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años diseñando webs y desde hace 6 años soy Desarrollador FrontEnd! Actualmente vuelco mi creatividad como Frontend Developer en @Inditex
+Soy Pablo Naveira, un apasionado del desarrollo web y del diseño. Llevo desde los 14 años en el mundo web y desde hace 6 años soy Desarrollador FrontEnd! Actualmente vuelco mi creatividad como Frontend Developer en @Inditex
 
 - 👨‍🦲 Soy calvo, pienso demasiado.
 - 📄 La primera web la diseñé con un CMS con 14 años.
@@ -14,7 +14,7 @@ Cambio de web casi como de ropa pero puedes ver cosas sobre mí [aquí](https://
 
 
 ###  🧞‍♂️ ¿Quién soy?
-Me ~~gusta~~ **flipa** programar. Después de diseñar unas 200 webs, en 2020 y con la cuarentena en nuestras vidas, decidí cambiar de rumbo y adentrarme en el maravilloso mundo del desarrollo de software. Ahora, sigo aprendiendo día a día y mejorando mis habilidades para ser cada vez mejor para mi equipo.
+Me ~~gusta~~ **flipa** programar. Soy un apasionado del trabajo diario, del buen rollo en el equipo, de la constancia y del clean code. 
 
 Como frontEnd, me considero un desarrollador **FullStack** con javascript.
 
